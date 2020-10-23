@@ -67,7 +67,7 @@
 #define USBD_LANGID_STRING     1033
 #define USBD_MANUFACTURER_STRING     "STMicroelectronics"
 #define USBD_PID_FS     22336
-#define USBD_PRODUCT_STRING_FS     "Black pill Audio Class"
+#define USBD_PRODUCT_STRING_FS     "Black Pill Audio Class"
 #define USBD_CONFIGURATION_STRING_FS     "AUDIO Config"
 #define USBD_INTERFACE_STRING_FS     "AUDIO Interface"
 

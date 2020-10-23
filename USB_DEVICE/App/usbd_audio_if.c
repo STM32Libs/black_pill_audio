@@ -220,7 +220,11 @@ static int8_t AUDIO_VolumeCtl_FS(uint8_t vol)
 static int8_t AUDIO_MuteCtl_FS(uint8_t cmd)
 {
   /* USER CODE BEGIN 4 */
-  UNUSED(cmd);
+  if(cmd){
+	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET);
+  }else{
+    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);
+  }
   return (USBD_OK);
   /* USER CODE END 4 */
 }
