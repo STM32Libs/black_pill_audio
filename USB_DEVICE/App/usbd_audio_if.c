@@ -21,7 +21,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "usbd_audio_if.h"
-
+#include "memlog.h"
 /* USER CODE BEGIN INCLUDE */
 
 /* USER CODE END INCLUDE */
@@ -157,6 +157,7 @@ static int8_t AUDIO_Init_FS(uint32_t AudioFreq, uint32_t Volume, uint32_t option
   UNUSED(AudioFreq);
   UNUSED(Volume);
   UNUSED(options);
+  memlog("AUDIO_Init_FS ;  ");
   return (USBD_OK);
   /* USER CODE END 0 */
 }
@@ -184,6 +185,7 @@ static int8_t AUDIO_DeInit_FS(uint32_t options)
 static int8_t AUDIO_AudioCmd_FS(uint8_t* pbuf, uint32_t size, uint8_t cmd)
 {
   /* USER CODE BEGIN 2 */
+  memlog("AUDIO_AudioCmd_FS ;  ");
   switch(cmd)
   {
     case AUDIO_CMD_START:
@@ -208,6 +210,7 @@ static int8_t AUDIO_VolumeCtl_FS(uint8_t vol)
 {
   /* USER CODE BEGIN 3 */
   UNUSED(vol);
+  memlog("AUDIO_VolumeCtl_FS ;  ");
   return (USBD_OK);
   /* USER CODE END 3 */
 }
@@ -220,11 +223,8 @@ static int8_t AUDIO_VolumeCtl_FS(uint8_t vol)
 static int8_t AUDIO_MuteCtl_FS(uint8_t cmd)
 {
   /* USER CODE BEGIN 4 */
-  if(cmd){
-	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET);
-  }else{
-    HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);
-  }
+	  memlog("AUDIO_MuteCtl_FS ;  ");
+
   return (USBD_OK);
   /* USER CODE END 4 */
 }
@@ -240,6 +240,10 @@ static int8_t AUDIO_PeriodicTC_FS(uint8_t *pbuf, uint32_t size, uint8_t cmd)
   UNUSED(pbuf);
   UNUSED(size);
   UNUSED(cmd);
+
+  memlog(".");
+  memchar((char)(size & 0xFF));
+
   return (USBD_OK);
   /* USER CODE END 5 */
 }
@@ -262,7 +266,9 @@ static int8_t AUDIO_GetState_FS(void)
 void TransferComplete_CallBack_FS(void)
 {
   /* USER CODE BEGIN 7 */
-  USBD_AUDIO_Sync(&hUsbDeviceFS, AUDIO_OFFSET_FULL);
+	memlog("-");
+	USBD_AUDIO_Sync(&hUsbDeviceFS, AUDIO_OFFSET_FULL);
+
   /* USER CODE END 7 */
 }
 

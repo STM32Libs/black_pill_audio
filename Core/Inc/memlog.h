@@ -5,10 +5,11 @@
  *      Author: User
  */
 
-#ifndef INC_LOG_H_
-#define INC_LOG_H_
+#ifndef INC_MEMLOG_H_
+#define INC_MEMLOG_H_
 
 void memlog_init(void);
 void memlog(char* fmt, ...);
+void memchar(char c);
 
-#endif /* INC_LOG_H_ */
+#endif /* INC_MEMLOG_H_ */

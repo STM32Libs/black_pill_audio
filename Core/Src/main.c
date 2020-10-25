@@ -18,9 +18,9 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
+#include <memlog.h>
 #include "main.h"
 #include "usb_device.h"
-#include "log.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -66,7 +66,7 @@ static void MX_GPIO_Init(void);
 int main(void)
 {
 	memlog_init();
-	memlog("Hello World Debug now");
+	memlog("Hello World Debug now ;  ");
 	//p_log = g_log;
 	//p_log += sprintf(g_log,"Hello world Debug ; ");
   /* USER CODE BEGIN 1 */
