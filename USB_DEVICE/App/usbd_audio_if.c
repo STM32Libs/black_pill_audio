@@ -241,8 +241,8 @@ static int8_t AUDIO_PeriodicTC_FS(uint8_t *pbuf, uint32_t size, uint8_t cmd)
   UNUSED(size);
   UNUSED(cmd);
 
-  memlog(".");
-  memchar((char)(size & 0xFF));
+  HAL_GPIO_TogglePin(GPIOB, GPIO_PIN_9);
+  memchar((char)(size));
 
   return (USBD_OK);
   /* USER CODE END 5 */
