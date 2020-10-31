@@ -3,8 +3,16 @@ usb audio device for the STM32F411CE black pill board
 
 * for setup and config see https://github.com/STM32Libs/black_pill_cdc
 
-# usb Audio
+# usb audio
+This example is using the CubeMX generated USB Audio middleware
+
 Middleware / USB_DEVICE / Class For FS IP / Audio Device Class
+
+# usb audio init
+<img src="media/usb_audio_init.png" width="500"></img>
+
+# usb audio data out
+<img src="media/audio_data_out.png" width="500"></img>
 
 # USB User manual
 
@@ -15,7 +23,7 @@ Middleware / USB_DEVICE / Class For FS IP / Audio Device Class
 
 # USB Audio expansion
 
-[STM32 USB Device Audio Streaming software expansion for STM32Cube](https://my.st.com/content/my_st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-usb-audio.license=1603453757720.product=X-CUBE-USB-AUDIO.version=1.0.0.html#overview)
+[STM32 USB Device Audio Streaming software expansion for STM32Cube](https://my.st.com/content/my_st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-expansion-packages/x-cube-usb-audio.product=X-CUBE-USB-AUDIO.version=1.0.0.html#overview)
 
 # Samples Comparision
 * CubeMX : 6.0.1
