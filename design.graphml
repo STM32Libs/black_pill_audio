@@ -13,15 +13,14 @@
   <key attr.name="description" attr.type="string" for="edge" id="d9"/>
   <key for="edge" id="d10" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    <data key="d0"/>
+    <data key="d0" xml:space="preserve"/>
     <node id="n0" yfiles.foldertype="group">
       <data key="d4" xml:space="preserve"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="468.7529296875" width="642.75" x="20.5" y="45.0"/>
+              <y:Geometry height="480.7529296875" width="642.75" x="606.1543650793651" y="45.0"/>
               <y:Fill color="#CAECFF80" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="642.75" x="0.0" xml:space="preserve" y="0.0">APP</y:NodeLabel>
@@ -46,12 +45,11 @@
       <graph edgedefault="directed" id="n0:">
         <node id="n0::n0" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="62.37646484375" width="169.0" x="308.25" y="72.37646484375"/>
+                  <y:Geometry height="62.37646484375" width="169.0" x="611.1543650793651" y="72.37646484375"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="169.0" x="0.0" xml:space="preserve" y="0.0">usbd_device.c</y:NodeLabel>
@@ -75,10 +73,9 @@
           </data>
           <graph edgedefault="directed" id="n0::n0:">
             <node id="n0::n0::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="159.0" x="313.25" y="99.7529296875"/>
+                  <y:Geometry height="30.0" width="159.0" x="616.1543650793651" y="99.7529296875"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="127.380859375" x="15.8095703125" xml:space="preserve" y="5.6494140625">MX_USB_DEVICE_Init<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -90,12 +87,11 @@
         </node>
         <node id="n0::n1" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="62.37646484375" width="151.0" x="507.25" y="72.37646484375"/>
+                  <y:Geometry height="62.37646484375" width="151.0" x="810.1543650793651" y="72.37646484375"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="151.0" x="0.0" xml:space="preserve" y="0.0">usbd_desc.c</y:NodeLabel>
@@ -119,10 +115,9 @@
           </data>
           <graph edgedefault="directed" id="n0::n1:">
             <node id="n0::n1::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="141.0" x="512.25" y="99.7529296875"/>
+                  <y:Geometry height="30.0" width="141.0" x="815.1543650793651" y="99.7529296875"/>
                   <y:Fill color="#CCFFCC" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.34765625" x="43.826171875" xml:space="preserve" y="5.6494140625">FS_Desc<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -134,12 +129,11 @@
         </node>
         <node id="n0::n2" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="184.37646484375" width="252.75" x="25.5" y="72.37646484375"/>
+                  <y:Geometry height="184.37646484375" width="252.75" x="991.1543650793651" y="72.37646484375"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="252.75" x="0.0" xml:space="preserve" y="0.0">usbd_audio_if.c</y:NodeLabel>
@@ -163,10 +157,9 @@
           </data>
           <graph edgedefault="directed" id="n0::n2:">
             <node id="n0::n2::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="169.0" x="104.25" y="160.7529296875"/>
+                  <y:Geometry height="30.0" width="169.0" x="996.1543650793651" y="160.7529296875"/>
                   <y:Fill color="#CCFFCC" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.380859375" x="17.8095703125" xml:space="preserve" y="5.6494140625">USBD_AUDIO_fops_FS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -175,10 +168,9 @@
               </data>
             </node>
             <node id="n0::n2::n1">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="30.5" y="99.7529296875"/>
+                  <y:Geometry height="30.0" width="211.75" x="1027.154365079365" y="99.7529296875"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="130.03515625" x="40.857421875" xml:space="preserve" y="5.6494140625">AUDIO_PeriodicTC_FS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -187,10 +179,9 @@
               </data>
             </node>
             <node id="n0::n2::n2">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="46.0" y="221.7529296875"/>
+                  <y:Geometry height="30.0" width="211.75" x="1011.6543650793651" y="221.7529296875"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.029296875" x="49.8603515625" xml:space="preserve" y="5.6494140625">AUDIO_MuteCtl_FS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -202,19 +193,18 @@
         </node>
         <node id="n0::n3" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="227.0" width="152.0" x="268.25" y="271.7529296875"/>
+                  <y:Geometry height="227.0" width="87.0" x="914.1543650793651" y="283.7529296875"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.0" x="0.0" y="0.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.0" x="0.0" y="0.0"/>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-                  <y:BorderInsets bottom="0" bottomF="0.0" left="65" leftF="64.5" right="0" rightF="0.0" top="0" topF="0.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="110.0" width="160.0" x="116.0" y="237.0"/>
@@ -231,10 +221,9 @@
           </data>
           <graph edgedefault="directed" id="n0::n3:">
             <node id="n0::n3::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="385.25" y="280.7529296875"/>
+                  <y:Geometry height="30.0" width="30.0" x="919.1543650793651" y="292.7529296875"/>
                   <y:Fill color="#FFFF99" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -250,10 +239,9 @@
               </data>
             </node>
             <node id="n0::n3::n1">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="345.25" y="402.7529296875"/>
+                  <y:Geometry height="30.0" width="30.0" x="966.1543650793651" y="414.7529296875"/>
                   <y:Fill color="#FFFF99" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -269,10 +257,9 @@
               </data>
             </node>
             <node id="n0::n3::n2">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="369.75" y="341.7529296875"/>
+                  <y:Geometry height="30.0" width="30.0" x="934.6543650793651" y="353.7529296875"/>
                   <y:Fill color="#FFFF99" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -288,10 +275,9 @@
               </data>
             </node>
             <node id="n0::n3::n3">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="30.0" x="337.75" y="463.7529296875"/>
+                  <y:Geometry height="30.0" width="30.0" x="950.6543650793651" y="475.7529296875"/>
                   <y:Fill color="#FFFF99" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
@@ -312,19 +298,18 @@
     </node>
     <node id="n1" yfiles.foldertype="group">
       <data key="d4" xml:space="preserve"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="936.0595409421994" width="1429.1888888888889" x="0.0" y="592.7529296875"/>
+              <y:Geometry height="953.0595409421994" width="1258.4412698412698" x="3.654365079365107" y="604.7529296875"/>
               <y:Fill color="#CAECFF80" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1429.1888888888889" x="0.0" xml:space="preserve" y="0.0">Middleware</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1258.4412698412698" x="0.0" xml:space="preserve" y="0.0">Middleware</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-              <y:BorderInsets bottom="10" bottomF="10.0" left="16" leftF="15.5" right="0" rightF="0.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="10" bottomF="10.0" left="0" leftF="0.0" right="16" rightF="15.5" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="110.0" width="160.0" x="116.0" y="237.0"/>
@@ -342,15 +327,14 @@
       <graph edgedefault="directed" id="n1:">
         <node id="n1::n0" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="359.7529296875" width="994.5" x="20.5" y="1154.0595409421994"/>
+                  <y:Geometry height="359.7529296875" width="1030.3444444444444" x="211.25119047619046" y="1183.0595409421994"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="994.5" x="0.0" xml:space="preserve" y="0.0">Class AUDIO</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1030.3444444444444" x="0.0" xml:space="preserve" y="0.0">Class AUDIO</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
@@ -372,19 +356,18 @@
           <graph edgedefault="directed" id="n1::n0:">
             <node id="n1::n0::n0" yfiles.foldertype="group">
               <data key="d4" xml:space="preserve"/>
-              <data key="d5"/>
               <data key="d6">
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="317.37646484375" width="984.5" x="25.5" y="1181.4360057859494"/>
+                      <y:Geometry height="317.37646484375" width="1020.3444444444444" x="216.25119047619046" y="1210.4360057859494"/>
                       <y:Fill color="#CAECFF80" transparent="false"/>
                       <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="984.5" x="0.0" xml:space="preserve" y="0.0">usbd_audio.c</y:NodeLabel>
+                      <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1020.3444444444444" x="0.0" xml:space="preserve" y="0.0">usbd_audio.c</y:NodeLabel>
                       <y:Shape type="roundrectangle"/>
                       <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                       <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-                      <y:BorderInsets bottom="0" bottomF="0.0" left="16" leftF="15.5" right="0" rightF="0.0" top="0" topF="0.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="74" leftF="73.59444444444449" right="0" rightF="0.0" top="0" topF="0.0"/>
                     </y:GroupNode>
                     <y:GroupNode>
                       <y:Geometry height="110.0" width="160.0" x="116.0" y="237.0"/>
@@ -401,10 +384,9 @@
               </data>
               <graph edgedefault="directed" id="n1::n0::n0:">
                 <node id="n1::n0::n0::n0">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="141.0" x="544.0" y="1463.8124706296994"/>
+                      <y:Geometry height="30.0" width="141.0" x="325.84563492063495" y="1492.8124706296994"/>
                       <y:Fill color="#CCFFCC" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.017578125" x="29.4912109375" xml:space="preserve" y="5.6494140625">USBD_AUDIO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -413,10 +395,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n1">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="203.0" x="513.0" y="1402.8124706296994"/>
+                      <y:Geometry height="30.0" width="203.0" x="527.8456349206349" y="1431.8124706296994"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="120.05078125" x="41.474609375" xml:space="preserve" y="5.6494140625">USBD_AUDIO_Setup<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -425,10 +406,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n2">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="41.0" width="247.0" x="533.5" y="1330.8124706296994"/>
+                      <y:Geometry height="41.0" width="247.0" x="571.0956349206349" y="1359.8124706296994"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="178.041015625" x="34.4794921875" xml:space="preserve" y="11.1494140625">USB_REQ_GET_DESCRIPTOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -437,10 +417,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n3">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="179.0" x="689.0" y="1269.8124706296994"/>
+                      <y:Geometry height="30.0" width="179.0" x="571.0956349206349" y="1298.8124706296994"/>
                       <y:Fill color="#CCFFCC" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="161.728515625" x="8.6357421875" xml:space="preserve" y="5.6494140625">USBD_AUDIO_CfgDesc + 18<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -449,10 +428,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n4">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="179.0" x="689.0" y="1208.8124706296994"/>
+                      <y:Geometry height="30.0" width="179.0" x="571.0956349206349" y="1237.8124706296994"/>
                       <y:Fill color="#CCFFCC" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.04296875" x="34.478515625" xml:space="preserve" y="5.6494140625">USB Speaker Class<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -461,10 +439,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n5">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="203.0" x="279.0" y="1208.8124706296994"/>
+                      <y:Geometry height="30.0" width="203.0" x="1013.0956349206349" y="1237.8124706296994"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="133.380859375" x="34.8095703125" xml:space="preserve" y="5.6494140625">USBD_AUDIO_DataOut<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -473,10 +450,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n6">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="203.0" x="129.375" y="1269.8124706296994"/>
+                      <y:Geometry height="30.0" width="203.0" x="1028.595634920635" y="1298.8124706296994"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.689453125" x="53.1552734375" xml:space="preserve" y="5.6494140625">AUDIO_OUT_EP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -485,10 +461,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n7">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="203.0" x="46.0" y="1208.8124706296994"/>
+                      <y:Geometry height="30.0" width="203.0" x="780.0956349206349" y="1237.8124706296994"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="167.400390625" x="17.7998046875" xml:space="preserve" y="5.6494140625">USBD_AUDIO_EP0_RxReady<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -497,10 +472,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n8">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="203.0" x="802.0" y="1402.8124706296994"/>
+                      <y:Geometry height="30.0" width="203.0" x="294.84563492063495" y="1431.8124706296994"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="154.046875" x="24.4765625" xml:space="preserve" y="5.6494140625">USBD_AUDIO_GetCfgDesc<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -509,10 +483,9 @@
                   </data>
                 </node>
                 <node id="n1::n0::n0::n9">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="179.0" x="810.5" y="1336.3124706296994"/>
+                      <y:Geometry height="30.0" width="179.0" x="361.09563492063495" y="1365.3124706296994"/>
                       <y:Fill color="#CCFFCC" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="134.705078125" x="22.1474609375" xml:space="preserve" y="5.6494140625">USBD_AUDIO_CfgDesc<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -526,12 +499,11 @@
         </node>
         <node id="n1::n1" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="486.9301464109494" width="1198.75" x="225.43888888888887" y="620.12939453125"/>
+                  <y:Geometry height="471.9301464109494" width="1198.75" x="8.654365079365107" y="632.12939453125"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1198.75" x="0.0" xml:space="preserve" y="0.0">Core</y:NodeLabel>
@@ -556,12 +528,11 @@
           <graph edgedefault="directed" id="n1::n1:">
             <node id="n1::n1::n0" yfiles.foldertype="group">
               <data key="d4" xml:space="preserve"/>
-              <data key="d5"/>
               <data key="d6">
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="123.37646484375" width="1188.75" x="230.43888888888887" y="647.505859375"/>
+                      <y:Geometry height="123.37646484375" width="1188.75" x="13.654365079365107" y="659.505859375"/>
                       <y:Fill color="#CAECFF80" transparent="false"/>
                       <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1188.75" x="0.0" xml:space="preserve" y="0.0">usbd_core.c</y:NodeLabel>
@@ -585,10 +556,9 @@
               </data>
               <graph edgedefault="directed" id="n1::n1::n0:">
                 <node id="n1::n1::n0::n0">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="960.6888888888889" y="674.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="260.4043650793651" y="686.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.703125" x="46.5234375" xml:space="preserve" y="5.6494140625">USBD_RegisterClass<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -597,10 +567,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n1">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="1202.4388888888889" y="674.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="18.654365079365107" y="686.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.021484375" x="75.8642578125" xml:space="preserve" y="5.6494140625">USBD_Init<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -609,10 +578,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n2">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="718.9388888888889" y="674.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="743.9043650793651" y="686.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.068359375" x="15.8408203125" xml:space="preserve" y="5.6494140625">USBD_AUDIO_RegisterInterface<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -621,10 +589,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n3">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="477.18888888888887" y="674.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="502.1543650793651" y="686.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.35546875" x="71.197265625" xml:space="preserve" y="5.6494140625">USBD_Start<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -633,10 +600,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n4">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="235.43888888888887" y="674.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="985.6543650793651" y="686.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="140.083984375" x="35.8330078125" xml:space="preserve" y="5.6494140625">USBD_LL_DataOutStage<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -645,22 +611,20 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n5">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="118.4877637130802" x="250.93905465139642" y="735.88232421875"/>
+                      <y:Geometry height="30.0" width="118.4877637130802" x="961.7021498894917" y="747.88232421875"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.69921875" x="33.8942724815401" xml:space="preserve" y="5.6494140625">epnum 0<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.69921875" x="33.894272481540156" xml:space="preserve" y="5.6494140625">epnum 0<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                       <y:Shape type="diamond"/>
                     </y:ShapeNode>
                   </data>
                 </node>
                 <node id="n1::n1::n0::n6">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="55.5" x="399.4269841269841" y="735.88232421875"/>
+                      <y:Geometry height="30.0" width="55.5" x="1110.1900793650793" y="747.88232421875"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.75" y="13.0">
@@ -676,10 +640,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n0::n7">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="1017.0867063492065" y="735.88232421875"/>
+                      <y:Geometry height="30.0" width="211.75" x="512.7833333333334" y="747.88232421875"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="126.75390625" x="42.498046875" xml:space="preserve" y="5.6494140625">USBD_LL_SetupStage<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -691,19 +654,18 @@
             </node>
             <node id="n1::n1::n1" yfiles.foldertype="group">
               <data key="d4" xml:space="preserve"/>
-              <data key="d5"/>
               <data key="d6">
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="290.1772167234494" width="869.6888888888889" x="513.0" y="801.88232421875"/>
+                      <y:Geometry height="275.1772167234494" width="869.6888888888889" x="236.75119047619046" y="813.88232421875"/>
                       <y:Fill color="#CAECFF80" transparent="false"/>
                       <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="869.6888888888889" x="0.0" xml:space="preserve" y="0.0">usbd_ctlreq.c</y:NodeLabel>
                       <y:Shape type="roundrectangle"/>
                       <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                       <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="4.17710944020655E-5" top="0" topF="0.0"/>
+                      <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="4.177109445890892E-5" right="0" rightF="4.17710944020655E-5" top="0" topF="0.0"/>
                     </y:GroupNode>
                     <y:GroupNode>
                       <y:Geometry height="110.0" width="160.0" x="116.0" y="237.0"/>
@@ -720,10 +682,9 @@
               </data>
               <graph edgedefault="directed" id="n1::n1::n1:">
                 <node id="n1::n1::n1::n0">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="794.2972222222222" y="829.2587890625"/>
+                      <y:Geometry height="30.0" width="211.75" x="565.7206349206349" y="841.2587890625"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.37890625" x="53.185546875" xml:space="preserve" y="5.6494140625">USBD_StdDevReq<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -732,10 +693,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n1::n1">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="837.5944444444444" y="996.0595409421993"/>
+                      <y:Geometry height="30.0" width="211.75" x="285.04841269841273" y="993.0595409421993"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.03515625" x="46.857421875" xml:space="preserve" y="5.6494140625">USBD_GetDescriptor<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -744,10 +704,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n1::n2">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="41.0" width="298.34436090225563" x="794.2972639933166" y="1046.0595409421994"/>
+                      <y:Geometry height="41.0" width="298.34436090225563" x="241.75123224728492" y="1043.0595409421994"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="214.041015625" x="42.151672638627815" xml:space="preserve" y="11.1494140625">USB_DESC_TYPE_CONFIGURATION<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -756,10 +715,9 @@
                   </data>
                 </node>
                 <node id="n1::n1::n1::n3">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="74.8007518796993" width="203.0" x="518.0" y="890.2587890625"/>
+                      <y:Geometry height="74.8007518796993" width="203.0" x="570.0956349206349" y="902.2587890625"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="157.380859375" x="22.8095703125" xml:space="preserve" y="20.69920406484971">USB_REQ_TYPE_CLASS
@@ -769,10 +727,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
                   </data>
                 </node>
                 <node id="n1::n1::n1::n4">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="41.0" width="298.34436090225563" x="751.0000417710944" y="907.1591650023497"/>
+                      <y:Geometry height="41.0" width="298.34436090225563" x="241.75123224728492" y="919.1591650023497"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="178.041015625" x="60.151672638627815" xml:space="preserve" y="11.1494140625">USB_REQ_GET_DESCRIPTOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -781,10 +738,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
                   </data>
                 </node>
                 <node id="n1::n1::n1::n5">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="41.0" width="298.34436090225563" x="1079.3444862155388" y="907.1591650023497"/>
+                      <y:Geometry height="41.0" width="298.34436090225563" x="803.0956766917294" y="919.1591650023497"/>
                       <y:Fill color="#FFFF99" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="200.03125" x="49.156555451127815" xml:space="preserve" y="11.1494140625">USB_REQ_GET_CONFIGURATION<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -793,10 +749,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
                   </data>
                 </node>
                 <node id="n1::n1::n1::n6">
-                  <data key="d5"/>
                   <data key="d6">
                     <y:ShapeNode>
-                      <y:Geometry height="30.0" width="211.75" x="1122.6416666666667" y="996.0595409421993"/>
+                      <y:Geometry height="30.0" width="211.75" x="846.3928571428572" y="993.0595409421993"/>
                       <y:Fill color="#FFCC00" transparent="false"/>
                       <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="98.04296875" x="56.853515625" xml:space="preserve" y="5.6494140625">USBD_GetConfig<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -811,10 +766,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </graph>
     </node>
     <node id="n2">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="159.0" x="313.25" y="0.0"/>
+          <y:Geometry height="30.0" width="159.0" x="616.1543650793651" y="0.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.34375" x="59.828125" xml:space="preserve" y="5.6494140625">main.c<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -824,12 +778,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </node>
     <node id="n3" yfiles.foldertype="group">
       <data key="d4" xml:space="preserve"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="104.7529296875" width="473.5" x="935.6888888888889" y="1695.5654003171994"/>
+              <y:Geometry height="198.12939453125" width="473.5" x="262.04007936507935" y="2016.5654003171994"/>
               <y:Fill color="#CAECFF80" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="473.5" x="0.0" xml:space="preserve" y="0.0">STM32F4xx_HAL_Driver</y:NodeLabel>
@@ -854,19 +807,18 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       <graph edgedefault="directed" id="n3:">
         <node id="n3::n0" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="62.37646484375" width="463.5" x="940.6888888888889" y="1722.9418651609494"/>
+                  <y:Geometry height="62.37646484375" width="463.5" x="267.04007936507935" y="2043.9418651609494"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="463.5" x="0.0" xml:space="preserve" y="0.0">stm32f4xx_hal_pcd.c</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
-                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="5.6843418860808015E-14" right="0" rightF="0.0" top="0" topF="0.0"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="768.5" y="270.37646484375"/>
@@ -883,10 +835,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
           </data>
           <graph edgedefault="directed" id="n3::n0:">
             <node id="n3::n0::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="945.6888888888889" y="1750.3183300046994"/>
+                  <y:Geometry height="30.0" width="211.75" x="513.7900793650794" y="2071.3183300046994"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="188.095703125" x="11.8271484375" xml:space="preserve" y="5.6494140625">HAL_PCD_DataOutStageCallback<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -895,13 +846,65 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
               </data>
             </node>
             <node id="n3::n0::n1">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="1187.4388888888889" y="1750.3183300046994"/>
+                  <y:Geometry height="30.0" width="211.75" x="272.0400793650794" y="2071.3183300046994"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.03515625" x="64.857421875" xml:space="preserve" y="5.6494140625">HAL_PCD_Init<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="n3::n1" yfiles.foldertype="group">
+          <data key="d4" xml:space="preserve"/>
+          <data key="d6">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="62.37646484375" width="463.5" x="267.04007936507935" y="2137.3183300046994"/>
+                  <y:Fill color="#CAECFF80" transparent="false"/>
+                  <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="463.5" x="0.0" xml:space="preserve" y="0.0">stm32f4xx_ll_usb.c</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="5.6843418860808015E-14" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="50.0" width="50.0" x="768.5" y="270.37646484375"/>
+                  <y:Fill color="#CAECFF80" transparent="false"/>
+                  <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.0" x="0.0" y="0.0"/>
+                  <y:Shape type="roundrectangle"/>
+                  <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph edgedefault="directed" id="n3::n1:">
+            <node id="n3::n1::n0">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="211.75" x="513.7900793650794" y="2164.6947948484494"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.6953125" x="69.52734375" xml:space="preserve" y="5.6494140625">USB_DevInit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n3::n1::n1">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="211.75" x="272.0400793650794" y="2164.6947948484494"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="77.365234375" x="67.1923828125" xml:space="preserve" y="5.6494140625">USB_CoreInit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                   <y:Shape type="rectangle"/>
                 </y:ShapeNode>
               </data>
@@ -912,15 +915,14 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </node>
     <node id="n4" yfiles.foldertype="group">
       <data key="d4" xml:space="preserve"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="104.7529296875" width="715.25" x="814.8138888888889" y="1559.8124706296994"/>
+              <y:Geometry height="396.7529296875" width="392.47619047619054" x="169.75119047619052" y="1588.8124706296994"/>
               <y:Fill color="#CAECFF80" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="715.25" x="0.0" xml:space="preserve" y="0.0">Target</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="392.47619047619054" x="0.0" xml:space="preserve" y="0.0">Target</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
@@ -942,15 +944,14 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       <graph edgedefault="directed" id="n4:">
         <node id="n4::n0" yfiles.foldertype="group">
           <data key="d4" xml:space="preserve"/>
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="62.37646484375" width="705.25" x="819.8138888888889" y="1587.1889354734494"/>
+                  <y:Geometry height="354.37646484375" width="382.47619047619054" x="174.75119047619052" y="1616.1889354734494"/>
                   <y:Fill color="#CAECFF80" transparent="false"/>
                   <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="705.25" x="0.0" xml:space="preserve" y="0.0">usbd_conf.c</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="382.47619047619054" x="0.0" xml:space="preserve" y="0.0">usbd_conf.c</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
@@ -971,10 +972,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
           </data>
           <graph edgedefault="directed" id="n4::n0:">
             <node id="n4::n0::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="824.8138888888889" y="1614.5654003171994"/>
+                  <y:Geometry height="30.0" width="211.75" x="340.477380952381" y="1643.5654003171994"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="188.095703125" x="11.8271484375" xml:space="preserve" y="5.6494140625">HAL_PCD_DataOutStageCallback<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -983,10 +983,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
               </data>
             </node>
             <node id="n4::n0::n1">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="1308.3138888888889" y="1614.5654003171994"/>
+                  <y:Geometry height="30.0" width="211.75" x="195.25119047619052" y="1736.5654003171994"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.04296875" x="65.853515625" xml:space="preserve" y="5.6494140625">USBD_LL_Init<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -995,14 +994,75 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
               </data>
             </node>
             <node id="n4::n0::n2">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="30.0" width="211.75" x="1066.5638888888889" y="1614.5654003171994"/>
+                  <y:Geometry height="30.0" width="211.75" x="179.75119047619052" y="1935.5654003171994"/>
                   <y:Fill color="#FFCC00" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.765625" x="18.4921875" xml:space="preserve" y="5.6494140625">HAL_PCD_SetupStageCallback<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
                   <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4::n0::n3">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="211.75" x="324.977380952381" y="1858.5654003171994"/>
+                  <y:Fill color="#FFCC00" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="104.705078125" x="53.5224609375" xml:space="preserve" y="5.6494140625">HAL_PCD_MspInit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4::n0::n4">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="141.0" x="318.8134920634921" y="1797.5654003171994"/>
+                  <y:Fill color="#CCFFCC" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.048828125" x="12.4755859375" xml:space="preserve" y="5.6494140625">hpcd_USB_OTG_FS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="ellipse"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4::n0::n5">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="66.56597894736845" x="437.0015343358396" y="1736.5654003171994"/>
+                  <y:Fill color="#CCFFCC" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.0078125" x="23.27908322368421" xml:space="preserve" y="5.6494140625">Init<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="ellipse"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4::n0::n6">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="99.2258045112782" x="211.25138345864667" y="1643.5654003171994"/>
+                  <y:Fill color="#CCFFCC" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.064453125" x="8.580675693139085" xml:space="preserve" y="5.6494140625">dev_endpoints<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+                  <y:Shape type="ellipse"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4::n0::n7">
+              <data key="d6">
+                <y:ShapeNode>
+                  <y:Geometry height="30.0" width="30.0" x="264.977380952381" y="1858.5654003171994"/>
+                  <y:Fill color="#FFFF99" transparent="false"/>
+                  <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
+                    <y:LabelModel>
+                      <y:SmartNodeLabelModel distance="4.0"/>
+                    </y:LabelModel>
+                    <y:ModelParameter>
+                      <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                    </y:ModelParameter>
+                  </y:NodeLabel>
+                  <y:Shape type="diamond"/>
                 </y:ShapeNode>
               </data>
             </node>
@@ -1012,10 +1072,12 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </node>
     <edge id="n1::n0::n0::e0" source="n1::n0::n0::n0" target="n1::n0::n0::n1">
       <data key="d8" xml:space="preserve"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-15.0" tx="0.0" ty="15.0"/>
+          <y:Path sx="47.0" sy="-15.0" tx="0.0" ty="15.0">
+            <y:Point x="443.34563492063495" y="1477.3124706296994"/>
+            <y:Point x="629.3456349206349" y="1477.3124706296994"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -1023,12 +1085,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n0::n0::e1" source="n1::n0::n0::n2" target="n1::n0::n0::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="20.5" tx="50.75" ty="-15.0">
-            <y:Point x="657.0" y="1387.3124706296994"/>
-            <y:Point x="665.25" y="1387.3124706296994"/>
+            <y:Point x="694.5956349206349" y="1416.3124706296994"/>
+            <y:Point x="680.0956349206349" y="1416.3124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1036,14 +1097,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::e0" source="n1::n0::n0::n0" target="n1::n1::n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="-47.0" sy="-15.0" tx="0.0" ty="15.0">
-            <y:Point x="567.5" y="1448.3124706296994"/>
-            <y:Point x="497.5" y="1448.3124706296994"/>
-            <y:Point x="497.5" y="720.38232421875"/>
-            <y:Point x="1066.5638888888889" y="720.38232421875"/>
+            <y:Point x="349.34563492063495" y="1477.3124706296994"/>
+            <y:Point x="221.25119047619052" y="1477.3124706296994"/>
+            <y:Point x="221.25119047619052" y="732.38232421875"/>
+            <y:Point x="366.2793650793651" y="732.38232421875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1051,7 +1111,6 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e0" source="n2" target="n0::n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0"/>
@@ -1061,12 +1120,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n0::n0::e2" source="n1::n0::n0::n5" target="n1::n0::n0::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="50.75" ty="-15.0">
-            <y:Point x="380.5" y="1254.3124706296994"/>
-            <y:Point x="281.625" y="1254.3124706296994"/>
+          <y:Path sx="0.0" sy="15.0" tx="-50.75" ty="-15.0">
+            <y:Point x="1114.595634920635" y="1283.3124706296994"/>
+            <y:Point x="1079.345634920635" y="1283.3124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1075,12 +1133,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </edge>
     <edge id="n0::n2::e0" source="n0::n2::n0" target="n0::n2::n1">
       <data key="d8" xml:space="preserve"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-15.0" tx="52.9375" ty="15.0">
-            <y:Point x="188.75" y="145.2529296875"/>
-            <y:Point x="189.3125" y="145.2529296875"/>
+          <y:Path sx="0.0" sy="-15.0" tx="-52.9375" ty="15.0">
+            <y:Point x="1080.654365079365" y="145.2529296875"/>
+            <y:Point x="1080.091865079365" y="145.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -1089,14 +1146,15 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e1" source="n1::n0::n0::n6" target="n0::n2::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-50.75" sy="-15.0" tx="-52.9375" ty="15.0">
-            <y:Point x="180.125" y="1254.3124706296994"/>
-            <y:Point x="30.5" y="1254.3124706296994"/>
-            <y:Point x="30.5" y="145.2529296875"/>
-            <y:Point x="83.4375" y="145.2529296875"/>
+          <y:Path sx="50.75" sy="-15.0" tx="52.9375" ty="15.0">
+            <y:Point x="1180.845634920635" y="1283.3124706296994"/>
+            <y:Point x="1231.595634920635" y="1283.3124706296994"/>
+            <y:Point x="1231.595634920635" y="1167.5595409421994"/>
+            <y:Point x="1238.904365079365" y="1167.5595409421994"/>
+            <y:Point x="1238.904365079365" y="145.2529296875"/>
+            <y:Point x="1185.966865079365" y="145.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1104,25 +1162,22 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n0::e0" source="n1::n1::n0::n4" target="n1::n1::n0::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="341.31388888888887" y="720.38232421875"/>
-            <y:Point x="310.1829365079365" y="720.38232421875"/>
-          </y:Path>
+          <y:Path sx="-70.58333333333334" sy="15.0" tx="0.0" ty="-15.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="n1::e1" source="n1::n1::n0::n5" target="n1::n0::n0::n7">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="50.75" ty="-15.0">
-            <y:Point x="310.1829365079365" y="1138.5595409421994"/>
-            <y:Point x="198.25" y="1138.5595409421994"/>
+          <y:Path sx="0.0" sy="15.0" tx="-50.75" ty="-15.0">
+            <y:Point x="1020.9460317460318" y="798.38232421875"/>
+            <y:Point x="1121.9400793650793" y="798.38232421875"/>
+            <y:Point x="1121.9400793650793" y="1119.5595409421994"/>
+            <y:Point x="830.8456349206349" y="1119.5595409421994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1130,12 +1185,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n0::e1" source="n1::n1::n0::n4" target="n1::n1::n0::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="70.58333333333334" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="411.89722222222224" y="720.38232421875"/>
-            <y:Point x="427.1769841269841" y="720.38232421875"/>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="1091.529365079365" y="732.38232421875"/>
+            <y:Point x="1137.9400793650793" y="732.38232421875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1143,12 +1197,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e2" source="n1::n0::n0::n7" target="n0::n2::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-50.75" sy="-15.0" tx="0.0" ty="15.0">
-            <y:Point x="96.75" y="1082.0595409421994"/>
-            <y:Point x="151.875" y="1082.0595409421994"/>
+          <y:Path sx="50.75" sy="-15.0" tx="0.0" ty="15.0">
+            <y:Point x="932.3456349206349" y="1151.5595409421994"/>
+            <y:Point x="1222.904365079365" y="1151.5595409421994"/>
+            <y:Point x="1222.904365079365" y="272.2529296875"/>
+            <y:Point x="1117.529365079365" y="272.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1156,12 +1211,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n0::n0::e3" source="n1::n0::n0::n3" target="n1::n0::n0::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-44.75" sy="15.0" tx="0.0" ty="-20.5">
-            <y:Point x="733.75" y="1315.3124706296994"/>
-            <y:Point x="657.0" y="1315.3124706296994"/>
+          <y:Path sx="44.75" sy="15.0" tx="0.0" ty="-20.5">
+            <y:Point x="705.3456349206349" y="1344.3124706296994"/>
+            <y:Point x="694.5956349206349" y="1344.3124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1169,12 +1223,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::e0" source="n0::n1::n0" target="n0::n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="7.5" ty="-15.0">
-            <y:Point x="582.75" y="252.2529296875"/>
-            <y:Point x="407.75" y="252.2529296875"/>
+            <y:Point x="885.6543650793651" y="252.2529296875"/>
+            <y:Point x="941.6543650793651" y="252.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1182,24 +1235,25 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::e1" source="n0::n0::n0" target="n0::n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="-7.5" ty="-15.0"/>
+          <y:Path sx="0.0" sy="15.0" tx="-7.5" ty="-15.0">
+            <y:Point x="695.6543650793651" y="268.2529296875"/>
+            <y:Point x="926.6543650793651" y="268.2529296875"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="e3" source="n0::n3::n0" target="n1::n1::n0::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="7.5" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="407.75" y="326.2529296875"/>
-            <y:Point x="415.25" y="326.2529296875"/>
-            <y:Point x="415.25" y="529.2529296875"/>
-            <y:Point x="1308.3138888888889" y="529.2529296875"/>
+          <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="926.6543650793651" y="338.2529296875"/>
+            <y:Point x="919.1543650793651" y="338.2529296875"/>
+            <y:Point x="919.1543650793651" y="541.2529296875"/>
+            <y:Point x="124.5293650793651" y="541.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1207,14 +1261,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e4" source="n0::n3::n1" target="n1::n1::n0::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="7.5" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="367.75" y="448.2529296875"/>
-            <y:Point x="383.25" y="448.2529296875"/>
-            <y:Point x="383.25" y="561.2529296875"/>
-            <y:Point x="824.8138888888889" y="561.2529296875"/>
+            <y:Point x="988.6543650793651" y="460.2529296875"/>
+            <y:Point x="996.1543650793651" y="460.2529296875"/>
+            <y:Point x="996.1543650793651" y="589.2529296875"/>
+            <y:Point x="849.7793650793651" y="589.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1222,14 +1275,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::e2" source="n0::n2::n0" target="n0::n3::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="-7.5" ty="-15.0">
-            <y:Point x="188.75" y="206.2529296875"/>
-            <y:Point x="273.25" y="206.2529296875"/>
-            <y:Point x="273.25" y="387.2529296875"/>
-            <y:Point x="352.75" y="387.2529296875"/>
+          <y:Path sx="0.0" sy="15.0" tx="7.5" ty="-15.0">
+            <y:Point x="1080.654365079365" y="206.2529296875"/>
+            <y:Point x="996.1543650793651" y="206.2529296875"/>
+            <y:Point x="996.1543650793651" y="399.2529296875"/>
+            <y:Point x="988.6543650793651" y="399.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1237,12 +1289,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::n3::e0" source="n0::n3::n0" target="n0::n3::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="392.75" y="326.2529296875"/>
-            <y:Point x="384.75" y="326.2529296875"/>
+          <y:Path sx="7.5" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="941.6543650793651" y="338.2529296875"/>
+            <y:Point x="949.6543650793651" y="338.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1250,12 +1301,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::n3::e1" source="n0::n3::n2" target="n0::n3::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-7.5" sy="15.0" tx="7.5" ty="-15.0">
-            <y:Point x="377.25" y="387.2529296875"/>
-            <y:Point x="367.75" y="387.2529296875"/>
+          <y:Path sx="7.5" sy="15.0" tx="-7.5" ty="-15.0">
+            <y:Point x="957.1543650793651" y="399.2529296875"/>
+            <y:Point x="973.6543650793651" y="399.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1263,14 +1313,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e5" source="n0::n3::n2" target="n1::n1::n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="7.5" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="392.25" y="387.2529296875"/>
-            <y:Point x="399.25" y="387.2529296875"/>
-            <y:Point x="399.25" y="545.2529296875"/>
-            <y:Point x="1066.5638888888889" y="545.2529296875"/>
+          <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="942.1543650793651" y="399.2529296875"/>
+            <y:Point x="935.1543650793651" y="399.2529296875"/>
+            <y:Point x="935.1543650793651" y="557.2529296875"/>
+            <y:Point x="366.2793650793651" y="557.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1278,22 +1327,23 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n0::n3::e2" source="n0::n3::n1" target="n0::n3::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0"/>
+          <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="973.6543650793651" y="460.2529296875"/>
+            <y:Point x="965.6543650793651" y="460.2529296875"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="e6" source="n0::n3::n3" target="n1::n1::n0::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="352.75" y="577.2529296875"/>
-            <y:Point x="583.0638888888889" y="577.2529296875"/>
+            <y:Point x="965.6543650793651" y="573.2529296875"/>
+            <y:Point x="608.0293650793651" y="573.2529296875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1301,12 +1351,13 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e7" source="n3::n0::n0" target="n4::n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="-15.0" tx="0.0" ty="15.0">
-            <y:Point x="1051.5638888888889" y="1680.0654003171994"/>
-            <y:Point x="930.6888888888889" y="1680.0654003171994"/>
+            <y:Point x="619.6650793650794" y="2001.0654003171994"/>
+            <y:Point x="552.2273809523809" y="2001.0654003171994"/>
+            <y:Point x="552.2273809523809" y="1689.0654003171994"/>
+            <y:Point x="446.352380952381" y="1689.0654003171994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1314,16 +1365,15 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e8" source="n4::n0::n0" target="n1::n1::n0::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="-15.0" tx="-70.58333333333337" ty="15.0">
-            <y:Point x="930.6888888888889" y="1544.3124706296994"/>
-            <y:Point x="5.0" y="1544.3124706296994"/>
-            <y:Point x="5.0" y="1122.5595409421994"/>
-            <y:Point x="235.4388888888889" y="1122.5595409421994"/>
-            <y:Point x="235.4388888888889" y="720.38232421875"/>
-            <y:Point x="270.7305555555555" y="720.38232421875"/>
+          <y:Path sx="0.0" sy="-15.0" tx="70.58333333333326" ty="15.0">
+            <y:Point x="446.352380952381" y="1573.3124706296994"/>
+            <y:Point x="1257.095634920635" y="1573.3124706296994"/>
+            <y:Point x="1257.095634920635" y="1119.5595409421994"/>
+            <y:Point x="1181.1900793650793" y="1119.5595409421994"/>
+            <y:Point x="1181.1900793650793" y="732.38232421875"/>
+            <y:Point x="1162.1126984126984" y="732.38232421875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1331,40 +1381,27 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="e9" source="n1::n1::n0::n1" target="n4::n0::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="1308.3138888888889" y="720.38232421875"/>
-            <y:Point x="1414.1888888888889" y="720.38232421875"/>
+            <y:Point x="124.5293650793651" y="732.38232421875"/>
+            <y:Point x="195.75119047619052" y="732.38232421875"/>
+            <y:Point x="195.75119047619052" y="1721.0654003171994"/>
+            <y:Point x="301.1261904761905" y="1721.0654003171994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e10" source="n4::n0::n1" target="n3::n0::n1">
-      <data key="d9"/>
+    <edge id="e10" source="n4::n0::n2" target="n1::n1::n0::n7">
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="1414.1888888888889" y="1680.0654003171994"/>
-            <y:Point x="1293.3138888888889" y="1680.0654003171994"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-        </y:BezierEdge>
-      </data>
-    </edge>
-    <edge id="e11" source="n4::n0::n2" target="n1::n1::n0::n7">
-      <data key="d9"/>
-      <data key="d10">
-        <y:BezierEdge>
-          <y:Path sx="0.0" sy="-15.0" tx="52.9375" ty="15.0">
-            <y:Point x="1172.4388888888889" y="1544.3124706296994"/>
-            <y:Point x="1398.1888888888889" y="1544.3124706296994"/>
-            <y:Point x="1398.1888888888889" y="786.38232421875"/>
-            <y:Point x="1175.8992063492065" y="786.38232421875"/>
+          <y:Path sx="0.0" sy="-15.0" tx="-52.9375" ty="15.0">
+            <y:Point x="285.6261904761905" y="1920.0654003171994"/>
+            <y:Point x="179.75119047619052" y="1920.0654003171994"/>
+            <y:Point x="179.75119047619052" y="798.38232421875"/>
+            <y:Point x="565.7208333333334" y="798.38232421875"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1372,14 +1409,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::e2" source="n1::n1::n0::n6" target="n1::n0::n0::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="427.1769841269841" y="786.38232421875"/>
-            <y:Point x="403.8384920634921" y="786.38232421875"/>
-            <y:Point x="403.8384920634921" y="1122.5595409421994"/>
-            <y:Point x="380.5" y="1122.5595409421994"/>
+            <y:Point x="1137.9400793650793" y="1135.5595409421994"/>
+            <y:Point x="1114.595634920635" y="1135.5595409421994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1387,25 +1421,20 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::e0" source="n1::n1::n0::n7" target="n1::n1::n1::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-52.9375" sy="15.0" tx="0.0" ty="-15.0">
-            <y:Point x="1070.0242063492065" y="786.38232421875"/>
-            <y:Point x="900.1722222222222" y="786.38232421875"/>
-          </y:Path>
+          <y:Path sx="52.9375" sy="15.0" tx="0.0" ty="-15.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="n1::n0::n0::e4" source="n1::n0::n0::n9" target="n1::n0::n0::n8">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="-50.75" ty="-15.0">
-            <y:Point x="900.0" y="1381.8124706296994"/>
-            <y:Point x="852.75" y="1381.8124706296994"/>
+          <y:Path sx="0.0" sy="15.0" tx="50.75" ty="-15.0">
+            <y:Point x="450.59563492063495" y="1410.8124706296994"/>
+            <y:Point x="447.09563492063495" y="1410.8124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1414,13 +1443,9 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </edge>
     <edge id="n1::n0::n0::e5" source="n1::n0::n0::n0" target="n1::n0::n0::n8">
       <data key="d8" xml:space="preserve"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="47.0" sy="-15.0" tx="0.0" ty="15.0">
-            <y:Point x="661.5" y="1448.3124706296994"/>
-            <y:Point x="903.5" y="1448.3124706296994"/>
-          </y:Path>
+          <y:Path sx="0.0" sy="-15.0" tx="0.0" ty="15.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -1428,7 +1453,6 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n1::e0" source="n1::n1::n1::n1" target="n1::n1::n1::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-20.5"/>
@@ -1438,14 +1462,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::e3" source="n1::n1::n1::n2" target="n1::n0::n0::n8">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="20.5" tx="50.75" ty="-15.0">
-            <y:Point x="943.4694444444444" y="1122.5595409421994"/>
-            <y:Point x="1005.0" y="1122.5595409421994"/>
-            <y:Point x="1005.0" y="1381.8124706296994"/>
-            <y:Point x="954.25" y="1381.8124706296994"/>
+          <y:Path sx="0.0" sy="20.5" tx="-50.75" ty="-15.0">
+            <y:Point x="390.92341269841273" y="1119.5595409421994"/>
+            <y:Point x="345.59563492063495" y="1119.5595409421994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1453,27 +1474,22 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n1::e1" source="n1::n1::n1::n0" target="n1::n1::n1::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="-70.58333333333334" sy="15.0" tx="0.0" ty="-37.40037593984965">
-            <y:Point x="829.5888888888888" y="874.7587890625"/>
-            <y:Point x="619.5" y="874.7587890625"/>
-          </y:Path>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-37.40037593984965"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
     <edge id="n1::e4" source="n1::n1::n1::n3" target="n1::n0::n0::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="37.40037593984971" tx="-50.75" ty="-15.0">
-            <y:Point x="619.5" y="980.5595409421993"/>
-            <y:Point x="518.0" y="980.5595409421993"/>
-            <y:Point x="518.0" y="1387.3124706296994"/>
-            <y:Point x="563.75" y="1387.3124706296994"/>
+            <y:Point x="671.5956349206349" y="992.5595409421993"/>
+            <y:Point x="555.5956349206349" y="992.5595409421993"/>
+            <y:Point x="555.5956349206349" y="1416.3124706296994"/>
+            <y:Point x="578.5956349206349" y="1416.3124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1481,30 +1497,27 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n1::e2" source="n1::n1::n1::n0" target="n1::n1::n1::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
-          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-20.5"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-        </y:BezierEdge>
-      </data>
-    </edge>
-    <edge id="n1::n1::n1::e3" source="n1::n1::n1::n4" target="n1::n1::n1::n1">
-      <data key="d9"/>
-      <data key="d10">
-        <y:BezierEdge>
-          <y:Path sx="0.0" sy="20.5" tx="0.0" ty="-15.0">
-            <y:Point x="900.1722222222222" y="963.6591650023497"/>
-            <y:Point x="943.4694444444444" y="963.6591650023497"/>
+          <y:Path sx="-70.58333333333334" sy="15.0" tx="0.0" ty="-20.5">
+            <y:Point x="601.0123015873015" y="886.7587890625"/>
+            <y:Point x="390.92341269841273" y="886.7587890625"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
+    <edge id="n1::n1::n1::e3" source="n1::n1::n1::n4" target="n1::n1::n1::n1">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="20.5" tx="0.0" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
     <edge id="n1::n1::n1::e4" source="n1::n1::n1::n5" target="n1::n1::n1::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="20.5" tx="0.0" ty="-15.0"/>
@@ -1514,12 +1527,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
       </data>
     </edge>
     <edge id="n1::n1::n1::e5" source="n1::n1::n1::n0" target="n1::n1::n1::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="70.58333333333334" sy="15.0" tx="0.0" ty="-20.5">
-            <y:Point x="970.7555555555556" y="874.7587890625"/>
-            <y:Point x="1228.5166666666667" y="874.7587890625"/>
+            <y:Point x="742.1789682539683" y="886.7587890625"/>
+            <y:Point x="952.2678571428572" y="886.7587890625"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1528,12 +1540,11 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </edge>
     <edge id="n1::n0::n0::e6" source="n1::n0::n0::n9" target="n1::n0::n0::n3">
       <data key="d8" xml:space="preserve"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="-15.0" tx="44.75" ty="15.0">
-            <y:Point x="900.0" y="1315.3124706296994"/>
-            <y:Point x="823.25" y="1315.3124706296994"/>
+          <y:Path sx="0.0" sy="-15.0" tx="-44.75" ty="15.0">
+            <y:Point x="450.59563492063495" y="1344.3124706296994"/>
+            <y:Point x="615.8456349206349" y="1344.3124706296994"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -1543,7 +1554,6 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
     </edge>
     <edge id="n1::n0::n0::e7" source="n1::n0::n0::n3" target="n1::n0::n0::n4">
       <data key="d8" xml:space="preserve"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="-15.0" tx="0.0" ty="15.0"/>
@@ -1551,6 +1561,116 @@ USB_REQ_TYPE_VENDOR<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:Labe
           <y:Arrows source="diamond" target="none"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n3::e0" source="n3::n0::n1" target="n3::n1::n0">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="52.9375" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="430.8525793650794" y="2121.8183300046994"/>
+            <y:Point x="619.6650793650794" y="2121.8183300046994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n3::n0::n1" target="n4::n0::n3">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="52.9375" sy="-15.0" tx="0.0" ty="15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="n3::e1" source="n3::n0::n1" target="n3::n1::n1">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="-52.9375" sy="15.0" tx="0.0" ty="-15.0">
+            <y:Point x="324.9775793650794" y="2121.8183300046994"/>
+            <y:Point x="377.9150793650794" y="2121.8183300046994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="n4::n0::e0" source="n4::n0::n1" target="n4::n0::n4">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="52.9375" sy="15.0" tx="-35.25" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="n4::n0::e1" source="n4::n0::n4" target="n4::n0::n5">
+      <data key="d8" xml:space="preserve"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="35.25" sy="-15.0" tx="0.0" ty="15.0">
+            <y:Point x="424.5634920634921" y="1782.0654003171994"/>
+            <y:Point x="470.2845238095238" y="1782.0654003171994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="diamond" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n4::n0::e2" source="n4::n0::n5" target="n4::n0::n6">
+      <data key="d8" xml:space="preserve"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="-15.0" tx="0.0" ty="15.0">
+            <y:Point x="470.2845238095238" y="1705.0654003171994"/>
+            <y:Point x="260.86428571428576" y="1705.0654003171994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="diamond" target="none"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n4::n0::e3" source="n4::n0::n1" target="n4::n0::n7">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="-52.9375" sy="15.0" tx="-7.5" ty="-15.0">
+            <y:Point x="248.18869047619052" y="1782.0654003171994"/>
+            <y:Point x="260.33313492063496" y="1782.0654003171994"/>
+            <y:Point x="260.33313492063496" y="1828.0654003171994"/>
+            <y:Point x="272.477380952381" y="1828.0654003171994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="n4::n0::e4" source="n4::n0::n4" target="n4::n0::n7">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="15.0" tx="7.5" ty="-15.0">
+            <y:Point x="389.3134920634921" y="1843.0654003171994"/>
+            <y:Point x="287.477380952381" y="1843.0654003171994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n4::n0::n7" target="n3::n0::n1">
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="15.0" tx="-52.9375" ty="-15.0">
+            <y:Point x="279.977380952381" y="1904.0654003171994"/>
+            <y:Point x="407.0011904761905" y="1904.0654003171994"/>
+            <y:Point x="407.0011904761905" y="2001.0654003171994"/>
+            <y:Point x="324.9775793650794" y="2001.0654003171994"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
       </data>
     </edge>
   </graph>
